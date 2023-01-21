@@ -5,6 +5,7 @@ const config = {
 		colors: {
 			transparent: 'transparent',
 			current: 'currentColor',
+			white: '#ffffffff',
 			'deep-space-sparkle': '#495e63ff',
 			'steel-blue': '#5985A8ff',
 			iceberg: '#7ba4c8ff',
