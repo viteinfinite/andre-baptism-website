@@ -1,0 +1,26 @@
+/* Write your global styles here, in PostCSS syntax */
+
+@import url('https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Kaushan+Script&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Signika+Negative:wght@300;400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+#hero {
+	background-image: url('/images/bg-global.png');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#hero-rafiki {
+	background-image: url('/images/rafiki-simba.png');
+	background-size: auto 40%;
+	background-repeat: no-repeat;
+	@apply bg-right-bottom;
+}
+
+#hero-andre {
+	background-image: url('/images/andre-hero.png');
+}
