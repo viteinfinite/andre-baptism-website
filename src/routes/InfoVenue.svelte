@@ -1,12 +1,12 @@
-<section id="venue" class="text-gray-600 body-font relative">
+<section id="venue" class="text-primary-600 body-font relative">
 	<div class="container px-5 py-24 mx-auto">
 		<h1
-			class="sm:text-3xl text-2xl font-medium text-center title-font mb-4 text-gray-900 font-berkshire"
+			class="sm:text-3xl text-2xl font-medium text-center title-font mb-4 text-primary-900 font-berkshire"
 		>
 			The venue
 		</h1>
 		<div
-			class="w-full bg-gray-300 h-[60vh] rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative"
+			class="w-full bg-primary-300 h-[60vh] rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative"
 		>
 			<iframe
 				width="100%"
@@ -22,7 +22,7 @@
 			/>
 			<div class="bg-white relative flex flex-wrap py-6 rounded shadow-md">
 				<div class="lg:w-full px-6">
-					<h2 class="title-font font-semibold text-gray-900 tracking-widest text-xs">ADDRESS</h2>
+					<h2 class="title-font font-semibold text-primary-900 tracking-widest text-xs">ADDRESS</h2>
 					<p class="mt-1">
 						<span class="font-bold">Mairie de Clichy (March 25)</span><br />80 Bd Jean Jaurès, 92110
 						Clichy
