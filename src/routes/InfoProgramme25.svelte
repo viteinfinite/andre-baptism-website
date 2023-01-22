@@ -1,11 +1,15 @@
+<script>
+	import { t } from '../translations/i18n';
+</script>
+
 <section id="programme-25" class="text-primary-600 body-font">
 	<h2 class="text-center text-xs text-secondary-500 tracking-widest font-medium title-font mb-1">
-		BAPTÊME CIVIL & COCKTAIL
+		{$t('programme25.beforeTitle')}
 	</h2>
 	<h1
 		class="sm:text-3xl text-2xl font-medium text-center title-font mb-4 text-primary-900 font-berkshire"
 	>
-		Le programme du samedi 25 mars
+		{$t('programme25.title')}
 	</h1>
 	<div class="container px-5 py-24 pt-12 mx-auto flex flex-wrap">
 		<div class="flex relative pt-10 pb-20 sm:items-center md:w-2/3 mx-auto">
@@ -35,11 +39,10 @@
 				</div>
 				<div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
 					<h2 class="font-medium title-font text-primary-900 mb-1 text-xl">
-						25 mars - 11:45 - Mairie de Clichy
+						{$t('programme25.event1.title')}
 					</h2>
 					<p class="leading-relaxed">
-						Accueil à la Mairie de Clichy pour la célébration du baptême civil.<br />80 Bd Jean
-						Jaurès, 92110 Clichy
+						{@html $t('programme25.event1.description')}
 					</p>
 				</div>
 			</div>
@@ -72,10 +75,10 @@
 				</div>
 				<div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
 					<h2 class="font-medium title-font text-primary-900 mb-1 text-xl">
-						25 mars - 12:45 - Hôtel de l'Imprimerie
+						{$t('programme25.event2.title')}
 					</h2>
 					<p class="leading-relaxed">
-						Reception à l'hôtel de l'Imprimerie de Clichy.<br />15 Rue Victor Méric, 92110 Clichy
+						{@html $t('programme25.event2.description')}
 					</p>
 				</div>
 			</div>

@@ -1,6 +1,10 @@
+<script>
+	import { t } from '../translations/i18n';
+</script>
+
 <footer class="text-primary-600 body-font">
 	<div class="container px-5 py-8 md:pb-0 mx-auto flex items-center sm:flex-row flex-col">
-		<p class="text-sm text-primary-500 mt-4">Made for André with Svelte and Tailblocks</p>
+		<p class="text-sm text-primary-500 mt-4">{$t('credits.title')}</p>
 		<div
 			class="hover:brightness-200 hover:drop-shadow-md hover:cursor-pointer inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start"
 		>
