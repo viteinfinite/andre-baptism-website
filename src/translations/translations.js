@@ -14,12 +14,13 @@ export default {
 		'intro.beforeTitle': `Le baptême d'André`,
 		'intro.title': 'Un jour ensemble',
 		'intro.paragraphs': `<p class="{{className}}">Chers amis,</p>
-		<p class="{{className}}">Nous avons eu l’idée de réunir ceux qui nous sont chers.<br />En effet, depuis le Covid et
+		<p class="{{className}}">Nous souhaitons depuis longtemps pouvoir rassembler les personnes qui nous sont chères.<br />En effet, depuis le Covid et
 		aussi, pour certains, à cause de la distance qui nous sépare, nous n’avons jamais pu
 		réellement être ensemble pour les anniversaires ou autres occasions spéciales depuis la
-		naissance d’André. L’idée de faire un baptême nous est alors venue ; mais avant tout, nous
-		voulions fêter la vie et le bonheur d’avoir André avec nous.</p>
+		naissance d’André.</p>
 		<p class="{{className}}">
+		L’idée de faire un baptême nous est alors venue ; mais avant tout, nous
+		voulions fêter la vie et le bonheur d’avoir André avec nous.
 		Nous sommes donc heureux de vous inviter à célébrer avec nous les baptêmes civil et
 		religieux d’André.
 		</p>
@@ -90,10 +91,10 @@ export default {
 		'intro.beforeTitle': `Il battesimo d'André`,
 		'intro.title': 'Un giorno insieme',
 		'intro.paragraphs': `<p class="{{className}}">Cari amici,</p>
-		<p class="{{className}}">È ta detmpo che desideriamo riunire color che ci sono cari.<br />In particolare, a causa della recente epidemia e delle distanze che separano alcuni di noi, abbiamo solo
-		raramente avuto la possibilità di trascorrere insieme anniversari e altre occasioni speciali. In questi giorni abbiamo dunque voluto condividere con voi questa grande evenienza e, soprattutto, celebrare la felicité immensa di avere André nelle nostre vite.</p>
+		<p class="{{className}}">È da tempo che desideriamo riunire coloro che ci sono cari.<br />In particolare, a causa della recente epidemia e delle distanze che separano alcuni di noi, abbiamo solo
+		raramente avuto la possibilità di trascorrere insieme anniversari e altre occasioni speciali.</p>
 		<p class="{{className}}">
-		È con grande gioia che vi invitiamo dunque a celebrare con noi i battesimi civile e religioso d’André.
+		In questi giorni vogliamo quindi condividere con voi questa grande evenienza e, soprattutto, celebrare la felicité immensa di avere André nelle nostre vite. È con grande gioia che vi invitiamo dunque a celebrare con noi i battesimi civile e religioso d’André.
 		</p>
 		<p class="{{className}}">
 		Il battesimo civile avrà luogo sabato 25 marzo 2023 a mezzogiorno presso il Municipio di Clichy e sarà seguito
