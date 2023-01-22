@@ -1,76 +1,4 @@
 export default {
-	en: {
-		'nav.intro': 'Intro',
-		'nav.venue': 'Venue',
-		'nav.programme': 'Programme',
-		'nav.presents': 'Presents',
-		'nav.language': 'Language:',
-		'nav.language.en': '🇬🇧',
-		'nav.language.fr': '🇫🇷',
-		'nav.language.pt': '🇧🇷',
-		'nav.language.it': '🇮🇹',
-		'global.title': "Andre's Baptism",
-		'global.dates': 'March 25-26',
-		'intro.beforeTitle': `André's Baptism`,
-		'intro.title': 'A day together',
-		'intro.paragraphs': `<p class="{{className}}">Dear Friends,</p>
-		<p class="{{className}}">We'd like bringing together those who are dear to us.<br />Because of the Covid breakout and, last but not least, the distance that separates us, we have rarely been able
-		to be together for birthdays or other special occasions since André was born. That's why we decided to share with all of you André's baptism, which, above all, is meant to be a celebration to the joy he brings to our lives.</p>
-		<p class="{{className}}">
-		We are therefore happy to invite you to join us for André's civil and religious baptisms.
-		</p>
-		<p class="{{className}}">
-		The civil baptism will take place on Saturday March 25, 2023 at noon at the Clichy Town Hall and will be followed
-		of a lunch cocktail. The religious Christening will be celebrated Sunday 26 at
-		Saint Vincent de Paul's Church at 11:45 AM.
-		</p>`,
-
-		'venue.title': 'Addresses',
-		'venue.addresses': 'Addresses',
-		'venue.addresses.townhall': 'Clichy Townhall (March 25)',
-		'venue.addresses.church': "St Vincent de Paul' Church (March 26)",
-		'venue.addresses.hotel': "Hôtel de l'Imprimerie (March 25)",
-
-		'programme25.beforeTitle': 'CIVIL BAPTISM & COCKTAIL',
-		'programme25.title': 'Saturday, March 25',
-		'programme25.event1.title': 'March 25 - 11:45 AM - Clichy Townhall',
-		'programme25.event1.description': `Reception at the Town Hall of Clichy for the celebration of the civil baptism.<br />
-		80 Bd Jean Jaurès, 92110 Clichy`,
-		'programme25.event2.title': "March 25 - 12:45 PM - Hôtel de l'Imprimerie",
-		'programme25.event2.description': `Reception and Lunch Cocktail at "L'hôtel de l'Imprimerie", Clichy.<br />
-		15 Rue Victor Méric, 92110 Clichy`,
-
-		'programme26.beforeTitle': 'Christening',
-		'programme26.title': 'Sunday, March 26',
-		'programme26.event1.title': "March 26 - 10:30 AM - St. Vincent de Paul's Church",
-		'programme26.event1.description': `Holy Mass.<br />
-		94 Bd Jean Jaurès, 92110 Clichy`,
-		'programme26.event2.title': "March 26 - 11:45 AM - St. Vincent de Paul's Church",
-		'programme26.event2.description': `Ceremony of Christening.`,
-
-		'stay.title': 'Stay',
-		'stay.description': `For those wishing to stay on site, we are pleased to inform you that you can benefit from reduced rates with the Hôtel de l'Imprimerie.<br />
-		Please contact us before booking so that we can notify the hotel.`,
-		'stay.cta': 'More info',
-
-		'presents.title': 'Your presence, the greatest of all presents',
-		'presents.description': `<p class="{{className}}">
-		As you know, your presence will be the greatest gift for us. For this
-		reason, no gift or present will be necessary.
-		</p>
-		<p class="{{className}}">
-		However, if you still wish to offer something to celebrate this event,
-		we encourage you to consider the possibility of making a donation to the association <span
-		class="font-bold"><a href="https://www.xfra.org">X Fragile France</a></span
-		>, a charity that supports families, children and adults affected by the
-		Fragile X. This association has a special meaning for us and we would be delighted to see
-		your generosity helps support this cause.
-		</p>`,
-		'presents.ctas.moreInfo': 'More info',
-		'presents.ctas.gift': 'Support the Foundation',
-		'credits.title': 'Made for André with Svelte and Tailblocks'
-	},
-
 	fr: {
 		'nav.intro': 'Intro',
 		'nav.venue': 'Lieux',
@@ -281,6 +209,78 @@ export default {
     </p>`,
 		'presents.ctas.moreInfo': 'Mais informações',
 		'presents.ctas.gift': 'Fazer uma doação',
+		'credits.title': 'Made for André with Svelte and Tailblocks'
+	},
+
+	en: {
+		'nav.intro': 'Intro',
+		'nav.venue': 'Venue',
+		'nav.programme': 'Programme',
+		'nav.presents': 'Presents',
+		'nav.language': 'Language:',
+		'nav.language.en': '🇬🇧',
+		'nav.language.fr': '🇫🇷',
+		'nav.language.pt': '🇧🇷',
+		'nav.language.it': '🇮🇹',
+		'global.title': "Andre's Baptism",
+		'global.dates': 'March 25-26',
+		'intro.beforeTitle': `André's Baptism`,
+		'intro.title': 'A day together',
+		'intro.paragraphs': `<p class="{{className}}">Dear Friends,</p>
+		<p class="{{className}}">We'd like bringing together those who are dear to us.<br />Because of the Covid breakout and, last but not least, the distance that separates us, we have rarely been able
+		to be together for birthdays or other special occasions since André was born. That's why we decided to share with all of you André's baptism, which, above all, is meant to be a celebration to the joy he brings to our lives.</p>
+		<p class="{{className}}">
+		We are therefore happy to invite you to join us for André's civil and religious baptisms.
+		</p>
+		<p class="{{className}}">
+		The civil baptism will take place on Saturday March 25, 2023 at noon at the Clichy Town Hall and will be followed
+		of a lunch cocktail. The religious Christening will be celebrated Sunday 26 at
+		Saint Vincent de Paul's Church at 11:45 AM.
+		</p>`,
+
+		'venue.title': 'Addresses',
+		'venue.addresses': 'Addresses',
+		'venue.addresses.townhall': 'Clichy Townhall (March 25)',
+		'venue.addresses.church': "St Vincent de Paul' Church (March 26)",
+		'venue.addresses.hotel': "Hôtel de l'Imprimerie (March 25)",
+
+		'programme25.beforeTitle': 'CIVIL BAPTISM & COCKTAIL',
+		'programme25.title': 'Saturday, March 25',
+		'programme25.event1.title': 'March 25 - 11:45 AM - Clichy Townhall',
+		'programme25.event1.description': `Reception at the Town Hall of Clichy for the celebration of the civil baptism.<br />
+		80 Bd Jean Jaurès, 92110 Clichy`,
+		'programme25.event2.title': "March 25 - 12:45 PM - Hôtel de l'Imprimerie",
+		'programme25.event2.description': `Reception and Lunch Cocktail at "L'hôtel de l'Imprimerie", Clichy.<br />
+		15 Rue Victor Méric, 92110 Clichy`,
+
+		'programme26.beforeTitle': 'Christening',
+		'programme26.title': 'Sunday, March 26',
+		'programme26.event1.title': "March 26 - 10:30 AM - St. Vincent de Paul's Church",
+		'programme26.event1.description': `Holy Mass.<br />
+		94 Bd Jean Jaurès, 92110 Clichy`,
+		'programme26.event2.title': "March 26 - 11:45 AM - St. Vincent de Paul's Church",
+		'programme26.event2.description': `Ceremony of Christening.`,
+
+		'stay.title': 'Stay',
+		'stay.description': `For those wishing to stay on site, we are pleased to inform you that you can benefit from reduced rates with the Hôtel de l'Imprimerie.<br />
+		Please contact us before booking so that we can notify the hotel.`,
+		'stay.cta': 'More info',
+
+		'presents.title': 'Your presence, the greatest of all presents',
+		'presents.description': `<p class="{{className}}">
+		As you know, your presence will be the greatest gift for us. For this
+		reason, no gift or present will be necessary.
+		</p>
+		<p class="{{className}}">
+		However, if you still wish to offer something to celebrate this event,
+		we encourage you to consider the possibility of making a donation to the association <span
+		class="font-bold"><a href="https://www.xfra.org">X Fragile France</a></span
+		>, a charity that supports families, children and adults affected by the
+		Fragile X. This association has a special meaning for us and we would be delighted to see
+		your generosity helps support this cause.
+		</p>`,
+		'presents.ctas.moreInfo': 'More info',
+		'presents.ctas.gift': 'Support the Foundation',
 		'credits.title': 'Made for André with Svelte and Tailblocks'
 	}
 };
