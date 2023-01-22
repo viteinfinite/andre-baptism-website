@@ -1,4 +1,4 @@
-<section id="hero" class="text-primary-600 body-font h-screen bg-gold-crayola/30">
+<section id="hero" class="text-primary-600 body-font h-screen bg-secondary-500/30">
 	<div class="px-0 md:flex md:justify-between h-full">
 		<div
 			id="hero-rafiki"
@@ -8,19 +8,20 @@
 				<header class="text-primary-600 body-font">
 					<div class="container static md:absolute md:pt-8">
 						<nav class="md:mr-auto flex flex-wrap text-base justify-start">
-							<a class="mr-5 hover:text-primary-900">First Link</a>
-							<a class="mr-5 hover:text-primary-900">Second Link</a>
-							<a class="mr-5 hover:text-primary-900">Third Link</a>
-							<a class="mr-5 hover:text-primary-900">Fourth Link</a>
+							<a href="#intro" class="mr-5 hover:text-primary-900">Intro</a>
+							<a href="#venue" class="mr-5 hover:text-primary-900">Venue</a>
+							<a href="#programme-25" class="mr-5 hover:text-primary-900">Programme</a>
+							<a href="#presents" class="mr-5 hover:text-primary-900">Cadeaux</a>
 						</nav>
 					</div>
 				</header>
 			</div>
 			<div class="grow-0">
-				<span class="font-berkshire text-3xl block mb-1 text-deep-space-sparkle-500"
+				<span
+					class="text-xsecondary-500 tracking-widest font-medium title-font text-3xl block mb-1 text-deep-space-sparkle-500 uppercase"
 					>25-26 mars 2023</span
 				>
-				<span class="font-kaushan text-7xl block text-deep-space-sparkle-500"
+				<span class="font-berkshire text-7xl block text-deep-space-sparkle-500"
 					>Let's celebrate Andre's baptism together</span
 				>
 			</div>

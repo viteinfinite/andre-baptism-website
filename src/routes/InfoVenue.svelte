@@ -1,7 +1,7 @@
 <section id="venue" class="text-primary-600 body-font relative">
 	<div class="container px-5 py-24 mx-auto">
 		<h1
-			class="sm:text-3xl text-2xl font-medium text-center title-font mb-4 text-primary-900 font-berkshire"
+			class="sm:text-3xl text-2xl font-medium text-center title-font mb-16 text-primary-900 font-berkshire"
 		>
 			The venue
 		</h1>
@@ -32,7 +32,7 @@
 						Jaurès, 92110 Clichy
 					</p>
 					<p class="mt-1">
-						<span class="font-bold">Hotel de l'Imprimerie (March 25)</span><br />15 Rue Victor
+						<span class="font-bold">Hôtel de l'Imprimerie (March 25)</span><br />15 Rue Victor
 						Méric, 92110 Clichy
 					</p>
 				</div>

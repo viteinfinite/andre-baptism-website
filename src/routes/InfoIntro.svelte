@@ -1,4 +1,4 @@
-<section id="A1" class="text-primary-600 body-font">
+<section id="intro" class="text-primary-600 body-font">
 	<div class="container px-5 py-24 mx-auto">
 		<div class="flex flex-col text-center w-full mb-20">
 			<h2 class="text-xs text-secondary-500 tracking-widest font-medium title-font mb-1">
@@ -22,7 +22,7 @@
 			<p class="lg:w-2/3 mx-auto leading-relaxed text-base">
 				Le baptême civil aura lieu le samedi 25 mars 2023 à midi à la Mairie de Clichy et sera suivi
 				d’un cocktail déjeunatoire. Le baptême religieux sera célébré le dimanche 26 à l’Église
-				Saint Vincent de Paul à 11h.
+				Saint Vincent de Paul à 11h45.
 			</p>
 		</div>
 	</div>
