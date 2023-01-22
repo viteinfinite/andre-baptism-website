@@ -216,5 +216,71 @@ export default {
 		'presents.ctas.moreInfo': 'Più informazioni',
 		'presents.ctas.gift': "Fare un'offerta",
 		'credits.title': 'Made for André with Svelte and Tailblocks'
+	},
+
+	pt: {
+		'nav.intro': 'Intro',
+		'nav.venue': 'Endereços',
+		'nav.programme': 'Programa',
+		'nav.presents': 'Presentes',
+		'nav.language': 'Língua',
+		'nav.language.en': '🇬🇧',
+		'nav.language.fr': '🇫🇷',
+		'nav.language.pt': '🇧🇷',
+		'nav.language.it': '🇮🇹',
+		'global.title': 'Batizado do André',
+		'global.dates': '25-26 março',
+		'intro.beforeTitle': `Batizado do André`,
+		'intro.title': 'Um dia juntos',
+		'intro.paragraphs': `<p class="{{className}}">Caros amigos,</p>
+    <p class="{{className}}">Nós tivemos a ideia de reunir as pessoas que são importantes para nós.<br />Desde o início do Covid e também devido à distância que nos separa, era difícil reunir todo mundo para comemorar aniversários e outras ocasiões especiais desde o nascimento do André. Assim veio a ideia de um batizado; mas, antes de tudo, a ideia é de festejar a vida e a alegria de ter o André conosco.</p>
+    <p class="{{className}}">
+    É com muita alegria que convidamos vocês para celebrar com a gente o batizado civil e religioso do André.
+    </p>
+    <p class="{{className}}">
+    O batizado civil acontecerá no sábado, dia 25 de março de 2023 ao meio-dia na Prefeitura de Clichy, seguido de um coquetel. O batizado religioso acontecerá no domingo dia 26 na Igreja
+    Saint Vincent de Paul às 11h45.
+    </p>`,
+
+		'venue.title': 'Endereços',
+		'venue.addresses': 'Endereços',
+		'venue.addresses.townhall': 'Prefeitura de Clichy (25 de março)',
+		'venue.addresses.church': 'Igreja St Vincent de Paul (26 de março)',
+		'venue.addresses.hotel': "Hôtel de l'Imprimerie (25 de março)",
+
+		'programme25.beforeTitle': 'BATIZADO CIVIL & COQUETELCOCKTAIL',
+		'programme25.title': 'O Programa do sábado 25 de março',
+		'programme25.event1.title': '25 de março - 11:45 - Prefeitura de Clichy',
+		'programme25.event1.description': `Recepção na Prefeitura de Clichy para a celebração do batizado civil.<br />
+    80 Bd Jean Jaurès, 92110 Clichy`,
+		'programme25.event2.title': "25 de março - 12:45 - Hôtel de l'Imprimerie",
+		'programme25.event2.description': `Recepção no Hôtel de l'Imprimerie de Clichy.<br />
+    15 Rue Victor Méric, 92110 Clichy`,
+
+		'programme26.beforeTitle': 'Batizado Religioso',
+		'programme26.title': 'Programme do domingo 26 de março',
+		'programme26.event1.title': '26 de março - 10:30 - Igreja St. Vincent de Paul',
+		'programme26.event1.description': `Santa missa.<br />
+    94 Bd Jean Jaurès, 92110 Clichy`,
+		'programme26.event2.title': '26 de março - 11:45 - Igreja St. Vincent de Paul',
+		'programme26.event2.description': `Celebração do batizado religioso.`,
+
+		'stay.title': 'Hospedagem',
+		'stay.description': `Para os amigos que desejam se hospedar nas proximidades, o Hôtel de l’Imprimerie propõe preços especiais para a ocasião.<br />
+    Antes de reservar, entre em contato conosco para que nós possamos informar o hotel.`,
+		'stay.cta': 'Mais informações',
+
+		'presents.title': 'A sua presença é o maior presente',
+		'presents.description': `<p class="{{className}}">
+    Como vocês sabem, sua presença será o mais belo presente para nós. Por isso, não é necessário trazer nenhum presente.
+    </p>
+    <p class="{{className}}">
+    Mas para os amigos que mesmo assim sentirem vontade de oferecer algo para celebrar essa ocasião, um grande gesto seria fazer uma doação para a associação <span
+      class="font-bold"><a href="https://www.xfra.org">X Fragile France</a></span
+    >, uma instituição caritativa que apoia famílias, crianças e adultos que vivem com o X frágil. Essa associação tem um sentido especial para nós, e será muito bonito ver a sua generosidade contribuir para essa causa.
+    </p>`,
+		'presents.ctas.moreInfo': 'Mais informações',
+		'presents.ctas.gift': 'Fazer uma doação',
+		'credits.title': 'Made for André with Svelte and Tailblocks'
 	}
 };

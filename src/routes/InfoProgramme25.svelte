@@ -1,5 +1,7 @@
 <script>
 	import { t } from '../translations/i18n';
+	import IconParty from '../icons/party.svelte';
+	import IconTownHall from '../icons/townhall.svelte';
 </script>
 
 <section id="programme-25" class="text-primary-600 body-font">
@@ -23,19 +25,9 @@
 			</div>
 			<div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
 				<div
-					class="flex-shrink-0 w-24 h-24 bg-secondary-100 text-secondary-500 rounded-full inline-flex items-center justify-center"
+					class="flex-shrink-0 w-24 h-24 bg-secondary-100 text-xxsecondary-300 rounded-full inline-flex items-center justify-center"
 				>
-					<svg
-						fill="none"
-						stroke="currentColor"
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="2"
-						class="w-12 h-12"
-						viewBox="0 0 24 24"
-					>
-						<path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z" />
-					</svg>
+					<span class="scale-[12%]"><IconTownHall /></span>
 				</div>
 				<div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
 					<h2 class="font-medium title-font text-primary-900 mb-1 text-xl">
@@ -58,20 +50,9 @@
 			</div>
 			<div class="flex-grow md:pl-8 pl-6 flex sm:items-center items-start flex-col sm:flex-row">
 				<div
-					class="flex-shrink-0 w-24 h-24 bg-secondary-100 text-secondary-500 rounded-full inline-flex items-center justify-center"
+					class="flex-shrink-0 w-24 h-24 bg-secondary-100 text-xxsecondary-300 rounded-full inline-flex items-center justify-center"
 				>
-					<svg
-						fill="none"
-						stroke="currentColor"
-						stroke-linecap="round"
-						stroke-linejoin="round"
-						stroke-width="2"
-						class="w-12 h-12"
-						viewBox="0 0 24 24"
-					>
-						<circle cx="12" cy="5" r="3" />
-						<path d="M12 22V8M5 12H2a10 10 0 0020 0h-3" />
-					</svg>
+					<span class="scale-[60%]"><IconParty /></span>
 				</div>
 				<div class="flex-grow sm:pl-6 mt-6 sm:mt-0">
 					<h2 class="font-medium title-font text-primary-900 mb-1 text-xl">

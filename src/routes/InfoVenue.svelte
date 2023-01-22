@@ -10,7 +10,7 @@
 			{$t('venue.title')}
 		</h1>
 		<div
-			class="w-full bg-primary-300 h-[60vh] rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative"
+			class="w-full bg-primary-300 h-[70vh] rounded-lg overflow-hidden sm:mr-10 p-10 flex items-end justify-start relative"
 		>
 			<iframe
 				width="100%"
@@ -25,7 +25,7 @@
 				src="//umap.openstreetmap.fr/en/map/baptemeandre_859952?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false"
 			/>
 			<div class="bg-white relative flex flex-wrap py-6 rounded shadow-md">
-				<div class="lg:w-full px-6">
+				<div class="lg:w-full px-6 text-xs md:text-base">
 					<h2 class="title-font font-semibold text-primary-900 tracking-widest text-xs uppercase">
 						{$t('venue.addresses')}
 					</h2>
