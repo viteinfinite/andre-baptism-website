@@ -16,6 +16,7 @@
 			{@html $t('presents.description', { className: 'mb-2 leading-relaxed' })}
 			<div class="flex justify-center mt-8">
 				<button
+					onclick="javascript:window.open('https://www.xfra.org')"
 					class="inline-flex text-white bg-secondary-500 border-0 py-2 px-6 focus:outline-none hover:bg-secondary-600 rounded text-lg"
 					>{$t('presents.ctas.moreInfo')}</button
 				>
