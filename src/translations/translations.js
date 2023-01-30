@@ -25,7 +25,7 @@ export default {
 		religieux d’André.
 		</p>
 		<p class="{{className}}">
-		Le baptême civil aura lieu le samedi 25 mars 2023 à midi à la Mairie de Clichy et sera suivi
+		Le baptême civil aura lieu le samedi 25 mars à midi à la Mairie de Clichy et sera suivi
 		d’un cocktail déjeunatoire. Le baptême religieux sera célébré le dimanche 26 à l’Église
 		Saint Vincent de Paul à 11h45.
 		</p>`,
@@ -102,18 +102,18 @@ export default {
 		'nav.language.fr': '🇫🇷',
 		'nav.language.pt': '🇧🇷',
 		'nav.language.it': '🇮🇹',
-		'global.title': "Battesimo d'André",
+		'global.title': 'Battesimo di André',
 		'global.dates': '25-26 marzo',
-		'intro.beforeTitle': `Il battesimo d'André`,
+		'intro.beforeTitle': `Il battesimo di André`,
 		'intro.title': 'Un giorno insieme',
 		'intro.paragraphs': `<p class="{{className}}">Cari amici,</p>
-		<p class="{{className}}">È da tempo che desideriamo riunire coloro che ci sono cari.<br />In particolare, a causa della recente epidemia e delle distanze che separano alcuni di noi, abbiamo solo
+		<p class="{{className}}">È da tempo che desideriamo riunire coloro che ci sono cari.<br />A causa della recente epidemia e delle distanze che separano alcuni di noi, abbiamo solo
 		raramente avuto la possibilità di trascorrere insieme anniversari e altre occasioni speciali.</p>
 		<p class="{{className}}">
-		In questi giorni vogliamo quindi condividere con voi questa grande evenienza e, soprattutto, celebrare la felicité immensa di avere André nelle nostre vite. È con grande gioia che vi invitiamo dunque a celebrare con noi i battesimi civile e religioso d’André.
+		In questi giorni vogliamo quindi condividere con voi questo evento e, soprattutto, celebrare la felicità immensa di avere André nelle nostre vite. È con grande gioia che vi invitiamo dunque a celebrare con noi i battesimi civile e religioso d’André.
 		</p>
 		<p class="{{className}}">
-		Il battesimo civile avrà luogo sabato 25 marzo 2023 a mezzogiorno presso il Municipio di Clichy e sarà seguito
+		Il battesimo civile avrà luogo sabato 25 marzo a mezzogiorno presso il Municipio di Clichy e sarà seguito
 		da un pranzo-cocktail. Il Battesimo religioso sarà celebrato domenica 26 presso la Chiesa parrocchiale di
 		Saint Vincent de Paul alle 11h45.
 		</p>`,
@@ -150,11 +150,11 @@ export default {
 
 		'programme25.beforeTitle': 'Battesimo civile e pranzo-cocktail',
 		'programme25.title': 'Il programma di sabato 25 marzo',
-		'programme25.event1.title': '25 marzo - 11:45 - Municipio de Clichy',
-		'programme25.event1.description': `Incontro al comune di Clichy pour la celebrazione del battesimo civile.<br />
+		'programme25.event1.title': '25 marzo - 11:45 - Municipio di Clichy',
+		'programme25.event1.description': `Ci ritroviamo al comune di Clichy per la celebrazione del battesimo civile.<br />
 		80 Bd Jean Jaurès, 92110 Clichy`,
 		'programme25.event2.title': "25 mars - 12:45 - Hôtel de l'Imprimerie",
-		'programme25.event2.description': `Incontro all'hôtel de l'Imprimerie de Clichy.<br />
+		'programme25.event2.description': `Ci ritroviamo all'hôtel de l'Imprimerie de Clichy.<br />
 		15 Rue Victor Méric, 92110 Clichy`,
 
 		'programme26.beforeTitle': 'Battesimo Religioso',
@@ -166,21 +166,21 @@ export default {
 		'programme26.event2.description': `Celebrazione del Battesimo religioso.`,
 
 		'stay.title': 'Soggiorno',
-		'stay.description': `A coloro che desiderano dormire in loco, abbiamo il piacere di informarvi che potrete beneficiare di tariffe ridotte presso l'Hôtel de l'Imprimerie.<br />
+		'stay.description': `Abbiamo il piacere di informare coloro che desiderano soggiornare in loco che potranno beneficiare di tariffe ridotte presso l'Hôtel de l'Imprimerie.<br />
 		Vi preghiamo di contattarci prima della prenotazione affinché possiamo informare l'hotel.`,
 		'stay.cta': 'Più informazioni',
 
-		'presents.title': 'La votra presenza, il più grande dei presenti',
+		'presents.title': 'La vostra presenza, il più grande dei presenti',
 		'presents.description': `<p class="{{className}}">
-		Come sapete, la vostra presenza sarà il più bel regalo che possiate farci: nessun presente sarà dunque necessario.
+		La vostra presenza sarà il più bel regalo che possiate farci: nessun presente sarà dunque necessario.
 		</p>
 		<p class="{{className}}">
 		Se desiderate tuttavia realizzare un gesto per celebrare questo evento,
-		vi invitiao a considerare la possibilità di fare un'offerta all'associazione <span
+		vi invitiamo a considerare la possibilità di fare un'offerta all'associazione <span
 			class="font-bold"><a href="https://www.xfra.org">X Fragile France</a></span
-		>, una fondazione che sostiene famiglie, bambini e toccati dall'X fragile. 
-		Questa associazione a un significato particlare per noi e saremmo lieti che la vostra
-		generoistà possa contribuire a questa causa.
+		>, una fondazione che sostiene famiglie, bambini e adulti toccati dall'X fragile. 
+		Questa associazione ha un significato particolare per noi e saremmo lieti che la vostra
+		generosità possa contribuire a questa causa.
 		</p>`,
 		'presents.ctas.moreInfo': 'Più informazioni',
 		'presents.ctas.gift': "Fare un'offerta",
@@ -207,7 +207,7 @@ export default {
     É com muita alegria que convidamos vocês para celebrar com a gente o batizado civil e religioso do André.
     </p>
     <p class="{{className}}">
-    O batizado civil acontecerá no sábado, dia 25 de março de 2023 ao meio-dia na Prefeitura de Clichy, seguido de um coquetel. O batizado religioso acontecerá no domingo dia 26 na Igreja
+    O batizado civil acontecerá no sábado, dia 25 de março ao meio-dia na Prefeitura de Clichy, seguido de um coquetel. O batizado religioso acontecerá no domingo dia 26 na Igreja
     Saint Vincent de Paul às 11h45.
     </p>`,
 
@@ -289,7 +289,7 @@ export default {
 		We are therefore happy to invite you to join us for André's civil and religious baptisms.
 		</p>
 		<p class="{{className}}">
-		The civil baptism will take place on Saturday March 25, 2023 at noon at the Clichy Town Hall and will be followed
+		The civil baptism will take place on Saturday March 25 at noon at the Clichy Town Hall and will be followed
 		of a lunch cocktail. The religious Christening will be celebrated Sunday 26 at
 		Saint Vincent de Paul's Church at 11:45 AM.
 		</p>`,
