@@ -35,6 +35,22 @@ export default {
 		'venue.addresses.townhall': 'Mairie de Clichy (25 mars)',
 		'venue.addresses.church': 'Église St Vincent de Paul (26 mars)',
 		'venue.addresses.hotel': "Hôtel de l'Imprimerie (25 mars)",
+		'venue.info.city': 'Clichy,<br />notre ville',
+		'venue.info.gettingAround': `<p class="leading-relaxed text-base">
+		Clichy est situé à l'ouest de Paris, facilement joignable en transport public, via :
+		</p>
+		<ul>
+		<li>
+			• Métro ligne 13 : sortie <span class="italic">Mairie de Clichy</span> - sans ascenseur
+		</li>
+		<li>
+			• Métro ligne 14 : sortie
+			<span class="italic">Porte de Clichy</span> - avec ascenseur + 10 minutes de marche)
+		</li>
+		<li>• Bus lignes 54 et 341</li>
+		</ul>
+		<p class="leading-relaxed text-base mt-2">L'intégralité des lieux de l'événement sont joignables à pieds (5 minutes) depuis le centre
+		de Clichy.</p>`,
 
 		'programme25.beforeTitle': 'BAPTÊME CIVIL & COCKTAIL',
 		'programme25.title': 'Le programme du samedi 25 mars',
@@ -107,6 +123,30 @@ export default {
 		'venue.addresses.townhall': 'Municipio di Clichy (25 marzo)',
 		'venue.addresses.church': 'Chiesa parrocchiale St Vincent de Paul (26 marzo)',
 		'venue.addresses.hotel': "Hôtel de l'Imprimerie (25 mars)",
+		'venue.info.city': 'Clichy,<br />la nostra città',
+		'venue.info.gettingAround': `<p class="leading-relaxed text-base">
+		Clichy si trova ad Ovest della città di Parigi, facilmente raggiungibile coi mezzi pubblici, via :
+		</p>
+		<ul>
+		<li>
+			• Metro linea 13 : stazione <span class="italic">Mairie de Clichy</span> - senza ascensore
+		</li>
+		<li>
+			• Metro linea 14 :
+			stazione <span class="italic">Porte de Clichy</span> - con ascensore + 10 minuti a piedi)
+		</li>
+		<li>• Bus linee 54 e 341</li>
+		</ul>
+		<p class="leading-relaxed text-base mt-2">Tutti i luoghi dell'evento sono facilemente raggiungibili a piedi dal centro di Clichy.</p>`,
+
+		'programme25.beforeTitle': 'BAPTÊME CIVIL & COCKTAIL',
+		'programme25.title': 'Le programme du samedi 25 mars',
+		'programme25.event1.title': '25 mars - 11:45 - Mairie de Clichy',
+		'programme25.event1.description': `Accueil à la Mairie de Clichy pour la célébration du baptême civil.<br />
+		80 Bd Jean Jaurès, 92110 Clichy`,
+		'programme25.event2.title': "25 mars - 12:45 - Hôtel de l'Imprimerie",
+		'programme25.event2.description': `Reception à l'hôtel de l'Imprimerie de Clichy.<br />
+		15 Rue Victor Méric, 92110 Clichy`,
 
 		'programme25.beforeTitle': 'Battesimo civile e pranzo-cocktail',
 		'programme25.title': 'Il programma di sabato 25 marzo',
@@ -176,6 +216,21 @@ export default {
 		'venue.addresses.townhall': 'Prefeitura de Clichy (25 de março)',
 		'venue.addresses.church': 'Igreja St Vincent de Paul (26 de março)',
 		'venue.addresses.hotel': "Hôtel de l'Imprimerie (25 de março)",
+		'venue.info.city': 'Clichy,<br />our city',
+		'venue.info.gettingAround': `<p class="leading-relaxed text-base">
+		Clichy is located on the West side of Paris, easily reachable by public transport, via :
+		</p>
+		<ul>
+		<li>
+			• Métro line 13 : <span class="italic">Mairie de Clichy</span> station - no lift
+		</li>
+		<li>
+			• Métro line 14 :
+			<span class="italic">Porte de Clichy</span> station - with lift + 10-minute walk)
+		</li>
+		<li>• Buses lines 54 and 341</li>
+		</ul>
+		<p class="leading-relaxed text-base mt-2">All the locations of the event are at walking distance from Clichy city center.</p>`,
 
 		'programme25.beforeTitle': 'BATIZADO CIVIL & COQUETELCOCKTAIL',
 		'programme25.title': 'O Programa do sábado 25 de março',
@@ -244,6 +299,21 @@ export default {
 		'venue.addresses.townhall': 'Clichy Townhall (March 25)',
 		'venue.addresses.church': "St Vincent de Paul' Church (March 26)",
 		'venue.addresses.hotel': "Hôtel de l'Imprimerie (March 25)",
+		'venue.info.city': 'Clichy,<br />our city',
+		'venue.info.gettingAround': `<p class="leading-relaxed text-base">
+		Clichy is located on the West side of Paris, easily reachable by public transport, via :
+		</p>
+		<ul>
+		<li>
+			• Métro line 13 : <span class="italic">Mairie de Clichy</span> station - no lift
+		</li>
+		<li>
+			• Métro line 14 :
+			<span class="italic">Porte de Clichy</span> station - with lift + 10-minute walk)
+		</li>
+		<li>• Buses lines 54 and 341</li>
+		</ul>
+		<p class="leading-relaxed text-base mt-2">All the locations of the event are at walking distance from Clichy city center.</p>`,
 
 		'programme25.beforeTitle': 'CIVIL BAPTISM & COCKTAIL',
 		'programme25.title': 'Saturday, March 25',

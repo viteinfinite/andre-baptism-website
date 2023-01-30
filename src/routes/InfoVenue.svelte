@@ -45,4 +45,12 @@
 			</div>
 		</div>
 	</div>
+	<div class="container px-5 pb-24 mx-auto flex flex-wrap">
+		<h2 class="sm:text-3xl text-2xl text-gray-900 font-medium title-font mb-2 md:w-1/4">
+			{@html $t('venue.info.city')}
+		</h2>
+		<div class="md:w-3/4 md:pl-6">
+			{@html $t('venue.info.gettingAround')}
+		</div>
+	</div>
 </section>
