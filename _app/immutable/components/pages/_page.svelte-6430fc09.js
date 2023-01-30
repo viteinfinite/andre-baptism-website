@@ -46,7 +46,7 @@ import{S as g2,i as b2,s as x2,k as c,q,a as w,l as d,m as i,r as J,h as n,c as 
 		<p class="{{className}}">È da tempo che desideriamo riunire coloro che ci sono cari.<br />In particolare, a causa della recente epidemia e delle distanze che separano alcuni di noi, abbiamo solo
 		raramente avuto la possibilità di trascorrere insieme anniversari e altre occasioni speciali.</p>
 		<p class="{{className}}">
-		In questi giorni vogliamo quindi condividere con voi questa grande evenienza e, soprattutto, celebrare la felicité immensa di avere André nelle nostre vite. È con grande gioia che vi invitiamo dunque a celebrare con noi i battesimi civile e religioso d’André.
+		In questi giorni vogliamo quindi condividere con voi questa grande evenienza e, soprattutto, celebrare la felicità immensa di avere André nelle nostre vite. È con grande gioia che vi invitiamo dunque a celebrare con noi i battesimi civile e religioso d’André.
 		</p>
 		<p class="{{className}}">
 		Il battesimo civile avrà luogo sabato 25 marzo 2023 a mezzogiorno presso il Municipio di Clichy e sarà seguito
@@ -67,7 +67,7 @@ import{S as g2,i as b2,s as x2,k as c,q,a as w,l as d,m as i,r as J,h as n,c as 
 		</ul>
 		<p class="leading-relaxed text-base mt-2">Tutti i luoghi dell'evento sono facilemente raggiungibili a piedi dal centro di Clichy.</p>`,"programme25.beforeTitle":"BAPTÊME CIVIL & COCKTAIL","programme25.title":"Le programme du samedi 25 mars","programme25.event1.title":"25 mars - 11:45 - Mairie de Clichy","programme25.event1.description":`Accueil à la Mairie de Clichy pour la célébration du baptême civil.<br />
 		80 Bd Jean Jaurès, 92110 Clichy`,"programme25.event2.title":"25 mars - 12:45 - Hôtel de l'Imprimerie","programme25.event2.description":`Reception à l'hôtel de l'Imprimerie de Clichy.<br />
-		15 Rue Victor Méric, 92110 Clichy`,"programme25.beforeTitle":"Battesimo civile e pranzo-cocktail","programme25.title":"Il programma di sabato 25 marzo","programme25.event1.title":"25 marzo - 11:45 - Municipio de Clichy","programme25.event1.description":`Incontro al comune di Clichy pour la celebrazione del battesimo civile.<br />
+		15 Rue Victor Méric, 92110 Clichy`,"programme25.beforeTitle":"Battesimo civile e pranzo-cocktail","programme25.title":"Il programma di sabato 25 marzo","programme25.event1.title":"25 marzo - 11:45 - Municipio di Clichy","programme25.event1.description":`Incontro al comune di Clichy pour la celebrazione del battesimo civile.<br />
 		80 Bd Jean Jaurès, 92110 Clichy`,"programme25.event2.title":"25 mars - 12:45 - Hôtel de l'Imprimerie","programme25.event2.description":`Incontro all'hôtel de l'Imprimerie de Clichy.<br />
 		15 Rue Victor Méric, 92110 Clichy`,"programme26.beforeTitle":"Battesimo Religioso","programme26.title":"Il programma di domenica 26 marzo","programme26.event1.title":"26 marzo - 10:30 - Chiesa di St. Vincent de Paul","programme26.event1.description":`Santa Messa.<br />
 		94 Bd Jean Jaurès, 92110 Clichy`,"programme26.event2.title":"26 mars - 11:45 - Chiesa di St. Vincent de Paul","programme26.event2.description":"Celebrazione del Battesimo religioso.","stay.title":"Soggiorno","stay.description":`A coloro che desiderano dormire in loco, abbiamo il piacere di informarvi che potrete beneficiare di tariffe ridotte presso l'Hôtel de l'Imprimerie.<br />
@@ -76,11 +76,11 @@ import{S as g2,i as b2,s as x2,k as c,q,a as w,l as d,m as i,r as J,h as n,c as 
 		</p>
 		<p class="{{className}}">
 		Se desiderate tuttavia realizzare un gesto per celebrare questo evento,
-		vi invitiao a considerare la possibilità di fare un'offerta all'associazione <span
+		vi invitiamo a considerare la possibilità di fare un'offerta all'associazione <span
 			class="font-bold"><a href="https://www.xfra.org">X Fragile France</a></span
 		>, una fondazione che sostiene famiglie, bambini e toccati dall'X fragile. 
 		Questa associazione a un significato particlare per noi e saremmo lieti che la vostra
-		generoistà possa contribuire a questa causa.
+		generosità possa contribuire a questa causa.
 		</p>`,"presents.ctas.moreInfo":"Più informazioni","presents.ctas.gift":"Fare un'offerta","credits.title":"Made for André with Svelte and Tailblocks"},pt:{"nav.intro":"Intro","nav.venue":"Endereços","nav.programme":"Programa","nav.presents":"Presentes","nav.language":"Língua","nav.language.en":"🇬🇧","nav.language.fr":"🇫🇷","nav.language.pt":"🇧🇷","nav.language.it":"🇮🇹","global.title":"Batizado do André","global.dates":"25-26 março","intro.beforeTitle":"Batizado do André","intro.title":"Um dia juntos","intro.paragraphs":`<p class="{{className}}">Caros amigos,</p>
     <p class="{{className}}">Nós tivemos a ideia de reunir as pessoas que são importantes para nós.<br />Desde o início do Covid e também devido à distância que nos separa, era difícil reunir todo mundo para comemorar aniversários e outras ocasiões especiais desde o nascimento do André. Assim veio a ideia de um batizado; mas, antes de tudo, a ideia é de festejar a vida e a alegria de ter o André conosco.</p>
     <p class="{{className}}">
