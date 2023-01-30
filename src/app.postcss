@@ -26,15 +26,21 @@
 	@apply md:bg-none;
 	@apply bg-no-repeat;
 	@apply bg-contain;
-	@apply bg-right-bottom;
+	background-position-y: bottom;
+	background-position-x: right -100px;
 }
 
 #hero-andre {
 	@apply bg-[url('/images/andre-hero-square.jpg')];
-	@apply md:bg-[url('/images/andre-hero.png')];
 	@apply bg-cover;
 	@apply bg-center;
-	@apply md:bg-left; 
+	@apply bg-no-repeat;
+}
+
+#md-hero-andre {
+	@apply md:bg-[url('/images/andre-hero.png')];
+	@apply bg-cover;
+	@apply bg-left; 
 	@apply bg-no-repeat;
 }
 

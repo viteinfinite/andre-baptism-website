@@ -4,12 +4,13 @@
 	export let locales;
 </script>
 
-<section id="hero" class="text-primary-600 body-font h-screen bg-secondary-500/30">
+<section id="hero" class="static text-primary-600 body-font h-screen bg-secondary-500/30">
 	<div id="hero-rafiki" class="px-0 md:flex md:justify-between h-full">
+		<div id="hero-andre" class="md:hidden md:w-1/2 w-full h-full overflow-hidden" />
 		<div
-			class="absolute md:static w-full md:w-1/2 flex flex-col h-full pl-5 md:pl-9 lg:pl-16 pr-5 md:pr-6 backdrop-sepia backdrop-brightness-75 md:backdrop-filter-none"
+			class="absolute top-0 md:static w-full md:w-1/2 flex flex-col h-screen backdrop-sepia backdrop-brightness-75 md:backdrop-filter-none"
 		>
-			<div class="grow-0 md:grow">
+			<div class="grow-0 md:grow pl-5 md:pl-9 lg:pl-16 pr-5 md:pr-6">
 				<header class="text-white md:text-primary-600 body-font">
 					<div class="container static md:absolute pt-4 md:pt-8">
 						<nav
@@ -31,9 +32,9 @@
 					</div>
 				</header>
 			</div>
-			<div class="grow md:grow-0 pt-4 md:pt-0">
+			<div class="grow md:grow-0 pt-4 md:pt-0 pl-5 md:pl-9 lg:pl-16 pr-5 md:pr-6">
 				<span
-					class="text-xsecondary-50 md:text-xsecondary-500 tracking-widest font-medium title-font text-3xl block mb-1 text-deep-space-sparkle-500 uppercase"
+					class="text-secondary-50 md:text-xsecondary-500 drop-shadow-md md:drop-shadow-none tracking-widest font-black md:font-medium title-font text-3xl block mb-1 text-deep-space-sparkle-500 uppercase"
 					>{$t('global.dates')}</span
 				>
 				<span
@@ -43,6 +44,6 @@
 			</div>
 			<div id="hero-bottom" class="max-h-[calc(100vh-100px)] md:h-auto grow">&nbsp;</div>
 		</div>
-		<div id="hero-andre" class="md:w-1/2 w-full h-screen overflow-hidden" />
+		<div id="md-hero-andre" class="hidden md:block md:w-1/2 w-full h-full overflow-hidden" />
 	</div>
 </section>
