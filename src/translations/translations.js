@@ -216,21 +216,21 @@ export default {
 		'venue.addresses.townhall': 'Prefeitura de Clichy (25 de março)',
 		'venue.addresses.church': 'Igreja St Vincent de Paul (26 de março)',
 		'venue.addresses.hotel': "Hôtel de l'Imprimerie (25 de março)",
-		'venue.info.city': 'Clichy,<br />our city',
+		'venue.info.city': 'Clichy,<br />nossa cidade',
 		'venue.info.gettingAround': `<p class="leading-relaxed text-base">
-		Clichy is located on the West side of Paris, easily reachable by public transport, via :
-		</p>
-		<ul>
-		<li>
-			• Métro line 13 : <span class="italic">Mairie de Clichy</span> station - no lift
-		</li>
-		<li>
-			• Métro line 14 :
-			<span class="italic">Porte de Clichy</span> station - with lift + 10-minute walk)
-		</li>
-		<li>• Buses lines 54 and 341</li>
-		</ul>
-		<p class="leading-relaxed text-base mt-2">All the locations of the event are at walking distance from Clichy city center.</p>`,
+    Clichy fica localizada a Oeste de Paris, de fácil acesso através dos transportes públicos:
+    </p>
+    <ul>
+    <li>
+      • Metrô linha 13 : <span class="italic">Estação Mairie de Clichy</span> sem elevador
+    </li>
+    <li>
+      • Metro linha 14 :
+      <span class="italic">Estação Porte de Clichy</span> com elevador + trajeto de 10 minutos a pé)
+    </li>
+    <li>• Ônibus linhas 54 e 341</li>
+    </ul>
+    <p class="leading-relaxed text-base mt-2">Todos os locais onde acontecerão os eventos são acessíveis a pé e próximo mos do centro de Clichy.</p>`,
 
 		'programme25.beforeTitle': 'BATIZADO CIVIL & COQUETELCOCKTAIL',
 		'programme25.title': 'O Programa do sábado 25 de março',
