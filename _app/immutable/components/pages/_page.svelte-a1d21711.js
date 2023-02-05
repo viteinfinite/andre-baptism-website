@@ -89,20 +89,20 @@ import{S as x2,i as w2,s as y2,k as o,a as w,q as B,l as c,m as l,h as n,c as y,
     <p class="{{className}}">
     O batizado civil acontecerá no sábado, dia 25 de março ao meio-dia na Prefeitura de Clichy, seguido de um coquetel. O batizado religioso acontecerá no domingo dia 26 na Igreja
     Saint Vincent de Paul às 11h45.
-    </p>`,"venue.title":"Endereços","venue.addresses":"Endereços","venue.addresses.townhall":"Prefeitura de Clichy (25 de março)","venue.addresses.church":"Igreja St Vincent de Paul (26 de março)","venue.addresses.hotel":"Hôtel de l'Imprimerie (25 de março)","venue.info.city":"Clichy,<br />our city","venue.info.gettingAround":`<p class="leading-relaxed text-base">
-		Clichy is located on the West side of Paris, easily reachable by public transport, via :
-		</p>
-		<ul>
-		<li>
-			• Métro line 13 : <span class="italic">Mairie de Clichy</span> station - no lift
-		</li>
-		<li>
-			• Métro line 14 :
-			<span class="italic">Porte de Clichy</span> station - with lift + 10-minute walk)
-		</li>
-		<li>• Buses lines 54 and 341</li>
-		</ul>
-		<p class="leading-relaxed text-base mt-2">All the locations of the event are at walking distance from Clichy city center.</p>`,"programme25.beforeTitle":"BATIZADO CIVIL & COQUETELCOCKTAIL","programme25.title":"O Programa do sábado 25 de março","programme25.event1.title":"25 de março - 11:45 - Prefeitura de Clichy","programme25.event1.description":`Recepção na Prefeitura de Clichy para a celebração do batizado civil.<br />
+    </p>`,"venue.title":"Endereços","venue.addresses":"Endereços","venue.addresses.townhall":"Prefeitura de Clichy (25 de março)","venue.addresses.church":"Igreja St Vincent de Paul (26 de março)","venue.addresses.hotel":"Hôtel de l'Imprimerie (25 de março)","venue.info.city":"Clichy,<br />nossa cidade","venue.info.gettingAround":`<p class="leading-relaxed text-base">
+    Clichy fica localizada a Oeste de Paris, de fácil acesso através dos transportes públicos:
+    </p>
+    <ul>
+    <li>
+      • Metrô linha 13 : <span class="italic">Estação Mairie de Clichy</span> sem elevador
+    </li>
+    <li>
+      • Metro linha 14 :
+      <span class="italic">Estação Porte de Clichy</span> com elevador + trajeto de 10 minutos a pé)
+    </li>
+    <li>• Ônibus linhas 54 e 341</li>
+    </ul>
+    <p class="leading-relaxed text-base mt-2">Todos os locais onde acontecerão os eventos são acessíveis a pé e próximo mos do centro de Clichy.</p>`,"programme25.beforeTitle":"BATIZADO CIVIL & COQUETELCOCKTAIL","programme25.title":"O Programa do sábado 25 de março","programme25.event1.title":"25 de março - 11:45 - Prefeitura de Clichy","programme25.event1.description":`Recepção na Prefeitura de Clichy para a celebração do batizado civil.<br />
     80 Bd Jean Jaurès, 92110 Clichy`,"programme25.event2.title":"25 de março - 12:45 - Hôtel de l'Imprimerie","programme25.event2.description":`Recepção no Hôtel de l'Imprimerie de Clichy.<br />
     15 Rue Victor Méric, 92110 Clichy`,"programme26.beforeTitle":"Batizado Religioso","programme26.title":"Programme do domingo 26 de março","programme26.event1.title":"26 de março - 10:30 - Igreja St. Vincent de Paul","programme26.event1.description":`Santa missa.<br />
     94 Bd Jean Jaurès, 92110 Clichy`,"programme26.event2.title":"26 de março - 11:45 - Igreja St. Vincent de Paul","programme26.event2.description":"Celebração do batizado religioso.","stay.title":"Hospedagem","stay.description":`Para os amigos que desejam se hospedar nas proximidades, o Hôtel de l’Imprimerie propõe preços especiais para a ocasião.<br />
