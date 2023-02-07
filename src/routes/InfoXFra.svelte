@@ -21,6 +21,7 @@
 					>{$t('presents.ctas.moreInfo')}</button
 				>
 				<button
+					onclick="window.open('https://www.helloasso.com/associations/fragile-x-france-2/formulaires/3')"
 					class="ml-4 inline-flex text-primary-700 bg-primary-100 border-0 py-2 px-6 focus:outline-none hover:bg-primary-200 rounded text-lg"
 					>{$t('presents.ctas.gift')}</button
 				>
